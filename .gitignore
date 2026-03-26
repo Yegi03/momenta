@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Outputs
+results/
+checkpoints/
+*.pt
+*.log
+
+# Large data / caches (keep paths, not files)
+data/*
+!data/README.md
+datasets/
+deployment_cache/images/
+deployment_cache/models/
