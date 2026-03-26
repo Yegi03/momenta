@@ -1,4 +1,4 @@
-## MOMENTA (`main/`) Reproducibility Guide
+## MOMENTA Reproducibility Guide
 
 This directory contains the maintained implementation used to train and evaluate MOMENTA for multimodal misinformation detection.
 
